@@ -91,7 +91,7 @@ class LeadProcessor {
         }
         
         // Determine if location is a state or metro region
-        const isMetroRegion = location.includes(' - ') || location.includes(', ');
+        const isMetroRegion = location.includes(' - ');
         const companySearchParams = {
           [isMetroRegion ? 'metroRegion' : 'state']: location,
           naicsCodes: naicsCode,
