@@ -12,15 +12,16 @@ yarn-error.log*
 .env.production.local
 
 # Google Cloud credentials
-*.json
-service-account-*.json
+config/service-account.json
+service-account*.json
+
+# ZoomInfo tokens and sensitive data
+data/zi-token.json
 
 # Local data and state
 logs/
 *.log
 
-# CSV outputs
-*.csv
 
 # IDE
 .vscode/

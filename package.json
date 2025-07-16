@@ -1,0 +1,22 @@
+{
+  "name": "zi-lead-generation",
+  "version": "1.0.0",
+  "description": "VM-deployable ZoomInfo lead generation with NAICS codes and bucket storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
+    "axios": "^1.6.2",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

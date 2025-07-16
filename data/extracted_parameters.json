@@ -1,0 +1,2380 @@
+{
+  "search_parameters": [
+    {
+      "locations": [
+        "CO - Denver"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Coordinator",
+        "Project Director",
+        "Project Lead",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Project",
+        "Manager",
+        "Site Supervisor",
+        "Site Superintendent",
+        "Site Manager",
+        "Site Foreman",
+        "Field Supervisor",
+        "Construction Supervisor",
+        "Supervisor",
+        "Superintendent",
+        "Foreman",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Procurement Specialist",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Procurement",
+        "Purchasing",
+        "Buyer",
+        "Construction Manager",
+        "General Contractor",
+        "Construction Director",
+        "Construction Coordinator",
+        "Construction",
+        "Contractor",
+        "Builder",
+        "Building Manager",
+        "Facility Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Superintendent",
+        "Facilities",
+        "Maintenance",
+        "Operations Director",
+        "Operations Manager",
+        "Director of Operations",
+        "COO",
+        "VP of Operations",
+        "Operations",
+        "Business Owner",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Director",
+        "Executive",
+        "Principal",
+        "Partner"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "236118",
+          "name": "Residential Remodelers"
+        },
+        {
+          "naicsCode": "23622",
+          "name": "Commercial and Institutional Building Construction"
+        },
+        {
+          "naicsCode": "23891",
+          "name": "Site Preparation Contractors"
+        },
+        {
+          "naicsCode": "4595",
+          "name": "Used Merchandise Retailers"
+        },
+        {
+          "naicsCode": "4491",
+          "name": "Furniture and Home Furnishings Retailers"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "California"
+      ],
+      "job_titles": [
+        "Drayage Manager",
+        "Drayage Coordinator",
+        "Drayage Operations Manager",
+        "Drayage Director",
+        "Container Drayage Manager",
+        "Drayage",
+        "Import Manager",
+        "Import Director",
+        "Import Coordinator",
+        "Import Operations Manager",
+        "International Trade Manager",
+        "Import",
+        "Export Manager",
+        "Export Director",
+        "Export Coordinator",
+        "Export Operations Manager",
+        "International Sales Manager",
+        "Export",
+        "Trade",
+        "International",
+        "Logistics",
+        "Transportation",
+        "Freight",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Manager",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "Director",
+        "General Manager",
+        "Business Director",
+        "Executive Director",
+        "Regional Director",
+        "Branch Manager",
+        "Executive",
+        "Principal"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "484121",
+          "name": "Drayage"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "California",
+        "Nevada"
+      ],
+      "job_titles": [
+        "Import Manager",
+        "Import Director",
+        "Import Coordinator",
+        "Import Operations Manager",
+        "International Trade Manager",
+        "Import",
+        "Export Manager",
+        "Export Director",
+        "Export Coordinator",
+        "Export Operations Manager",
+        "International Sales Manager",
+        "Export",
+        "Trade",
+        "International",
+        "Logistics Manager",
+        "Logistics Director",
+        "Logistics Coordinator",
+        "Supply Chain Manager",
+        "Transportation Manager",
+        "Logistics",
+        "Supply Chain",
+        "Transportation",
+        "Warehouse Manager",
+        "Warehouse Director",
+        "Warehouse Supervisor",
+        "Distribution Manager",
+        "Fulfillment Manager",
+        "Warehouse",
+        "Distribution",
+        "Traffic Manager",
+        "Traffic Coordinator",
+        "Transportation Director",
+        "Fleet Manager",
+        "Shipping Manager",
+        "Traffic",
+        "Fleet",
+        "Shipping",
+        "Freight",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Manager",
+        "Director",
+        "Coordinator",
+        "Supervisor"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "488510",
+          "name": "NVOCC"
+        },
+        {
+          "naicsCode": "541614",
+          "name": "Process, Physical Distribution & Logistics Consulting Services"
+        },
+        {
+          "naicsCode": "488991",
+          "name": "Packing & Crating Services"
+        },
+        {
+          "naicsCode": "561910",
+          "name": "Packaging & Labeling Services"
+        },
+        {
+          "naicsCode": "488320",
+          "name": "Marine Cargo Handling"
+        },
+        {
+          "naicsCode": "493110",
+          "name": "Distribution center"
+        },
+        {
+          "naicsCode": "493120",
+          "name": "Refrigerated Warehousing & Storage"
+        },
+        {
+          "naicsCode": "493190",
+          "name": "Other Warehousing & Storage"
+        },
+        {
+          "naicsCode": "493130",
+          "name": "Farm Product Warehousing & Storage"
+        },
+        {
+          "naicsCode": "337121",
+          "name": "Upholstered Household Furniture Manufacturing"
+        },
+        {
+          "naicsCode": "337110",
+          "name": "Wood Kitchen Cabinet & Countertop Manufacturing"
+        },
+        {
+          "naicsCode": "337127",
+          "name": "Institutional Furniture Manufacturing"
+        },
+        {
+          "naicsCode": "337214",
+          "name": "Office Furniture (except Wood) Manufacturing"
+        },
+        {
+          "naicsCode": "423210",
+          "name": "Furniture Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "423220",
+          "name": "Home Furnishing Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "442110",
+          "name": "Furniture Stores"
+        },
+        {
+          "naicsCode": "315290",
+          "name": "Other Cut & Sew Apparel Manufacturing"
+        },
+        {
+          "naicsCode": "315990",
+          "name": "Apparel Accessories & Other Apparel Manufacturing"
+        },
+        {
+          "naicsCode": "313210",
+          "name": "Broadwoven Fabric Mills"
+        },
+        {
+          "naicsCode": "313221",
+          "name": "Narrow Fabric Mills & Schiffli Embroidery"
+        },
+        {
+          "naicsCode": "316210",
+          "name": "Footwear Manufacturing"
+        },
+        {
+          "naicsCode": "424310",
+          "name": "Piece Goods, Notions & Other Dry-Goods Wholesalers"
+        },
+        {
+          "naicsCode": "424320",
+          "name": "Men’s & Boys’ Clothing Wholesalers"
+        },
+        {
+          "naicsCode": "424330",
+          "name": "Women’s, Children’s & Infants’ Clothing Wholesalers"
+        },
+        {
+          "naicsCode": "424340",
+          "name": "Footwear Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "334111",
+          "name": "Electronic Computer Manufacturing"
+        },
+        {
+          "naicsCode": "3342",
+          "name": "Communications Equipment Manufacturing"
+        },
+        {
+          "naicsCode": "335220",
+          "name": "Major Household Appliance Manufacturing"
+        },
+        {
+          "naicsCode": "335210",
+          "name": "Small Electrical Appliance Manufacturing"
+        },
+        {
+          "naicsCode": "423690",
+          "name": "Other Electronic Parts & Equipment Wholesalers"
+        },
+        {
+          "naicsCode": "423620",
+          "name": "Household Appliance Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "443141",
+          "name": "Household Appliance Stores"
+        },
+        {
+          "naicsCode": "454110",
+          "name": "Electronic Shopping & Mail-Order Houses"
+        },
+        {
+          "naicsCode": "424410",
+          "name": "General Line Grocery Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "424490",
+          "name": "Other Grocery & Related Products Wholesalers"
+        },
+        {
+          "naicsCode": "424460",
+          "name": "Fish & Seafood Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "4248",
+          "name": "Beer, Wine & Distilled Beverage Wholesalers"
+        },
+        {
+          "naicsCode": "424450",
+          "name": "Confectionery Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "336110",
+          "name": "Automobile & Light-Duty Vehicle Manufacturing"
+        },
+        {
+          "naicsCode": "336112",
+          "name": "Light Truck & Utility Vehicle Manufacturing"
+        },
+        {
+          "naicsCode": "336310",
+          "name": "Motor Vehicle Gasoline Engine & Parts Manufacturing"
+        },
+        {
+          "naicsCode": "336340",
+          "name": "Motor Vehicle Brake System Manufacturing"
+        },
+        {
+          "naicsCode": "336350",
+          "name": "Motor Vehicle Transmission & Power Train Parts Manufacturing"
+        },
+        {
+          "naicsCode": "336370",
+          "name": "Motor Vehicle Metal Stamping"
+        },
+        {
+          "naicsCode": "336390",
+          "name": "Other Motor-Vehicle Parts Manufacturing"
+        },
+        {
+          "naicsCode": "423120",
+          "name": "Motor-Vehicle Supplies & New Parts Wholesalers"
+        },
+        {
+          "naicsCode": "423130",
+          "name": "Tire & Tube Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "333120",
+          "name": "Construction Machinery Manufacturing"
+        },
+        {
+          "naicsCode": "333922",
+          "name": "Conveyor & Conveying Equipment Manufacturing"
+        },
+        {
+          "naicsCode": "333924",
+          "name": "Industrial Truck, Tractor, Trailer & Stacker Machinery Mfg."
+        },
+        {
+          "naicsCode": "333511",
+          "name": "Industrial Mold Manufacturing"
+        },
+        {
+          "naicsCode": "333517",
+          "name": "Machine Tool Manufacturing"
+        },
+        {
+          "naicsCode": "333519",
+          "name": "Other Metalworking Machinery Manufacturing"
+        },
+        {
+          "naicsCode": "333991",
+          "name": "Power-Driven Handtool Manufacturing"
+        },
+        {
+          "naicsCode": "423810",
+          "name": "Construction & Mining Machinery Wholesalers"
+        },
+        {
+          "naicsCode": "423830",
+          "name": "Industrial Machinery & Equipment Wholesalers"
+        },
+        {
+          "naicsCode": "327310",
+          "name": "Cement Manufacturing"
+        },
+        {
+          "naicsCode": "327320",
+          "name": "Ready-Mix Concrete Manufacturing"
+        },
+        {
+          "naicsCode": "327390",
+          "name": "Other Concrete Product Manufacturing"
+        },
+        {
+          "naicsCode": "327410",
+          "name": "Lime Manufacturing"
+        },
+        {
+          "naicsCode": "327991",
+          "name": "Cut Stone & Stone Product Manufacturing"
+        },
+        {
+          "naicsCode": "423310",
+          "name": "Lumber, Millwork & Wood-Panel Wholesalers"
+        },
+        {
+          "naicsCode": "423320",
+          "name": "Brick, Stone & Construction Material Wholesalers"
+        },
+        {
+          "naicsCode": "423330",
+          "name": "Roofing, Siding & Insulation Material Wholesalers"
+        },
+        {
+          "naicsCode": "325110",
+          "name": "Petrochemical Manufacturing"
+        },
+        {
+          "naicsCode": "325180",
+          "name": "Other Basic Inorganic Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "325199",
+          "name": "All Other Basic Organic Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "325211",
+          "name": "Plastics Material & Resin Manufacturing"
+        },
+        {
+          "naicsCode": "325510",
+          "name": "Paint & Coating Manufacturing"
+        },
+        {
+          "naicsCode": "325520",
+          "name": "Adhesive Manufacturing"
+        },
+        {
+          "naicsCode": "325320",
+          "name": "Pesticide & Other Agricultural Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "424610",
+          "name": "Plastics Materials & Basic Forms Wholesalers"
+        },
+        {
+          "naicsCode": "424690",
+          "name": "Other Chemical & Allied Products Wholesalers"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "California"
+      ],
+      "job_titles": [
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Facilities",
+        "Property",
+        "Building",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Green Building Manager",
+        "Sustainability",
+        "Environmental",
+        "Green",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Procurement",
+        "Purchasing",
+        "Sourcing",
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Construction Manager",
+        "General Contractor",
+        "Project",
+        "Construction",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Manager",
+        "Director",
+        "Executive",
+        "Landscape Architect",
+        "Landscape Designer",
+        "Landscape Manager",
+        "Grounds Manager",
+        "Horticulturist",
+        "Landscape",
+        "Grounds"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "236220",
+          "name": "Construction, Demolition, remodel, roofing, General contractors"
+        },
+        {
+          "naicsCode": "561730",
+          "name": "Landscapers & Yard‑waste Generators"
+        },
+        {
+          "naicsCode": "111332",
+          "name": "Farms, Vineyards"
+        },
+        {
+          "naicsCode": "11",
+          "name": "Agriculture"
+        },
+        {
+          "naicsCode": "238110",
+          "name": "Concrete Contractors"
+        },
+        {
+          "naicsCode": "237990",
+          "name": "Civil Contractors"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "California"
+      ],
+      "job_titles": [
+        "Drayage Manager",
+        "Drayage Coordinator",
+        "Drayage Operations Manager",
+        "Container Drayage Manager",
+        "Port Operations Manager",
+        "Drayage",
+        "Port",
+        "Container",
+        "Import Manager",
+        "Import Director",
+        "Import Coordinator",
+        "Import Operations Manager",
+        "International Trade Manager",
+        "Import",
+        "Export Manager",
+        "Export Director",
+        "Export Coordinator",
+        "Export Operations Manager",
+        "International Sales Manager",
+        "Export",
+        "Trade",
+        "International",
+        "Logistics Manager",
+        "Transportation Manager",
+        "Freight Manager",
+        "Shipping Manager",
+        "Cargo Manager",
+        "Logistics",
+        "Transportation",
+        "Freight",
+        "Shipping",
+        "Cargo",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Manager",
+        "Director",
+        "Coordinator"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "488510",
+          "name": "Freight Transportation Arrangement (forwarders, brokers)"
+        },
+        {
+          "naicsCode": "541614",
+          "name": "Process, Physical Distribution & Logistics Consulting Services"
+        },
+        {
+          "naicsCode": "488991",
+          "name": "Packing & Crating Services"
+        },
+        {
+          "naicsCode": "561910",
+          "name": "Packaging & Labeling Services"
+        },
+        {
+          "naicsCode": "488320",
+          "name": "Marine Cargo Handling"
+        },
+        {
+          "naicsCode": "493110",
+          "name": "General Warehousing & Storage"
+        },
+        {
+          "naicsCode": "493120",
+          "name": "Refrigerated Warehousing & Storage"
+        },
+        {
+          "naicsCode": "493190",
+          "name": "Other Warehousing & Storage"
+        },
+        {
+          "naicsCode": "493130",
+          "name": "Farm Product Warehousing & Storage"
+        },
+        {
+          "naicsCode": "337121",
+          "name": "Upholstered Household Furniture Manufacturing"
+        },
+        {
+          "naicsCode": "337110",
+          "name": "Wood Kitchen Cabinet & Countertop Manufacturing"
+        },
+        {
+          "naicsCode": "337127",
+          "name": "Institutional Furniture Manufacturing"
+        },
+        {
+          "naicsCode": "337214",
+          "name": "Office Furniture (except Wood) Manufacturing"
+        },
+        {
+          "naicsCode": "423210",
+          "name": "Furniture Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "423220",
+          "name": "Home Furnishing Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "442110",
+          "name": "Furniture Stores"
+        },
+        {
+          "naicsCode": "315280",
+          "name": "Other Cut & Sew Apparel Manufacturing"
+        },
+        {
+          "naicsCode": "315990",
+          "name": "Apparel Accessories & Other Apparel Manufacturing"
+        },
+        {
+          "naicsCode": "313210",
+          "name": "Broadwoven Fabric Mills"
+        },
+        {
+          "naicsCode": "313220",
+          "name": "Narrow Fabric Mills & Schiffli Embroidery"
+        },
+        {
+          "naicsCode": "316210",
+          "name": "Footwear Manufacturing"
+        },
+        {
+          "naicsCode": "424310",
+          "name": "Piece Goods, Notions & Other Dry-Goods Wholesalers"
+        },
+        {
+          "naicsCode": "424320",
+          "name": "Men’s & Boys’ Clothing Wholesalers"
+        },
+        {
+          "naicsCode": "424330",
+          "name": "Women’s, Children’s & Infants’ Clothing Wholesalers"
+        },
+        {
+          "naicsCode": "424340",
+          "name": "Footwear Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "334111",
+          "name": "Electronic Computer Manufacturing"
+        },
+        {
+          "naicsCode": "334220",
+          "name": "Communications Equipment Manufacturing"
+        },
+        {
+          "naicsCode": "335220",
+          "name": "Major Household Appliance Manufacturing"
+        },
+        {
+          "naicsCode": "335210",
+          "name": "Small Electrical Appliance Manufacturing"
+        },
+        {
+          "naicsCode": "423690",
+          "name": "Other Electronic Parts & Equipment Wholesalers"
+        },
+        {
+          "naicsCode": "423620",
+          "name": "Household Appliance Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "443141",
+          "name": "Household Appliance Stores"
+        },
+        {
+          "naicsCode": "454110",
+          "name": "Electronic Shopping & Mail-Order Houses"
+        },
+        {
+          "naicsCode": "424410",
+          "name": "General Line Grocery Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "424490",
+          "name": "Other Grocery & Related Products Wholesalers"
+        },
+        {
+          "naicsCode": "424460",
+          "name": "Fish & Seafood Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "424820",
+          "name": "Beer, Wine & Distilled Beverage Wholesalers"
+        },
+        {
+          "naicsCode": "424450",
+          "name": "Confectionery Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "336111",
+          "name": "Automobile & Light-Duty Vehicle Manufacturing"
+        },
+        {
+          "naicsCode": "336112",
+          "name": "Light Truck & Utility Vehicle Manufacturing"
+        },
+        {
+          "naicsCode": "336310",
+          "name": "Motor Vehicle Gasoline Engine & Parts Manufacturing"
+        },
+        {
+          "naicsCode": "336340",
+          "name": "Motor Vehicle Brake System Manufacturing"
+        },
+        {
+          "naicsCode": "336350",
+          "name": "Motor Vehicle Transmission & Power Train Parts Manufacturing"
+        },
+        {
+          "naicsCode": "336370",
+          "name": "Motor Vehicle Metal Stamping"
+        },
+        {
+          "naicsCode": "336390",
+          "name": "Other Motor-Vehicle Parts Manufacturing"
+        },
+        {
+          "naicsCode": "423120",
+          "name": "Motor-Vehicle Supplies & New Parts Wholesalers"
+        },
+        {
+          "naicsCode": "423140",
+          "name": "Tire & Tube Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "333120",
+          "name": "Construction Machinery Manufacturing"
+        },
+        {
+          "naicsCode": "333922",
+          "name": "Conveyor & Conveying Equipment Manufacturing"
+        },
+        {
+          "naicsCode": "333924",
+          "name": "Industrial Truck, Tractor, Trailer & Stacker Machinery Mfg."
+        },
+        {
+          "naicsCode": "333511",
+          "name": "Industrial Mold Manufacturing"
+        },
+        {
+          "naicsCode": "333517",
+          "name": "Machine Tool Manufacturing"
+        },
+        {
+          "naicsCode": "333519",
+          "name": "Other Metalworking Machinery Manufacturing"
+        },
+        {
+          "naicsCode": "333991",
+          "name": "Power-Driven Handtool Manufacturing"
+        },
+        {
+          "naicsCode": "423810",
+          "name": "Construction & Mining Machinery Wholesalers"
+        },
+        {
+          "naicsCode": "423830",
+          "name": "Industrial Machinery & Equipment Wholesalers"
+        },
+        {
+          "naicsCode": "327310",
+          "name": "Cement Manufacturing"
+        },
+        {
+          "naicsCode": "327320",
+          "name": "Ready-Mix Concrete Manufacturing"
+        },
+        {
+          "naicsCode": "327390",
+          "name": "Other Concrete Product Manufacturing"
+        },
+        {
+          "naicsCode": "327410",
+          "name": "Lime Manufacturing"
+        },
+        {
+          "naicsCode": "327991",
+          "name": "Cut Stone & Stone Product Manufacturing"
+        },
+        {
+          "naicsCode": "423310",
+          "name": "Lumber, Millwork & Wood-Panel Wholesalers"
+        },
+        {
+          "naicsCode": "423320",
+          "name": "Brick, Stone & Construction Material Wholesalers"
+        },
+        {
+          "naicsCode": "423330",
+          "name": "Roofing, Siding & Insulation Material Wholesalers"
+        },
+        {
+          "naicsCode": "325110",
+          "name": "Petrochemical Manufacturing"
+        },
+        {
+          "naicsCode": "325180",
+          "name": "Other Basic Inorganic Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "325199",
+          "name": "All Other Basic Organic Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "325211",
+          "name": "Plastics Material & Resin Manufacturing"
+        },
+        {
+          "naicsCode": "325510",
+          "name": "Paint & Coating Manufacturing"
+        },
+        {
+          "naicsCode": "325520",
+          "name": "Adhesive Manufacturing"
+        },
+        {
+          "naicsCode": "325320",
+          "name": "Pesticide & Other Agricultural Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "424610",
+          "name": "Plastics Materials & Basic Forms Wholesalers"
+        },
+        {
+          "naicsCode": "424690",
+          "name": "Other Chemical & Allied Products Wholesalers"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Acworth",
+        "Atlanta"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Project",
+        "Site Supervisor",
+        "Site Manager",
+        "Site Superintendent",
+        "Field Supervisor",
+        "Construction Supervisor",
+        "Site",
+        "Supervisor",
+        "Superintendent",
+        "Facility Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Facilities",
+        "Property",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Construction Manager",
+        "General Contractor",
+        "Building Superintendent",
+        "Maintenance Manager",
+        "Construction",
+        "Contractor",
+        "Maintenance",
+        "Owner",
+        "Manager",
+        "Director"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "2361",
+          "name": "Residential Building Construction"
+        },
+        {
+          "naicsCode": "23622",
+          "name": "Commercial and Institutional Building Construction"
+        },
+        {
+          "naicsCode": "236118",
+          "name": "Residential Remodelers"
+        },
+        {
+          "naicsCode": "23891",
+          "name": "Site Preparation Contractors"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Arizona",
+        "Nevada",
+        "California"
+      ],
+      "job_titles": [
+        "Drayage Manager",
+        "Drayage Coordinator",
+        "Drayage Operations Manager",
+        "Container Operations Manager",
+        "Port Operations Manager",
+        "Import Manager",
+        "Import Director",
+        "Import Coordinator",
+        "Import Operations Manager",
+        "International Trade Manager",
+        "Export Manager",
+        "Export Director",
+        "Export Coordinator",
+        "Export Operations Manager",
+        "International Sales Manager",
+        "Logistics Manager",
+        "Transportation Manager",
+        "Freight Manager",
+        "Shipping Manager",
+        "Cargo Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations"
+      ],
+      "naics_codes": []
+    },
+    {
+      "locations": [
+        "NV - Las Vegas"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Project",
+        "Site Superintendent",
+        "Site Manager",
+        "Site Supervisor",
+        "Field Superintendent",
+        "Construction Superintendent",
+        "Site",
+        "Superintendent",
+        "Supervisor",
+        "Construction Manager",
+        "General Contractor",
+        "Construction Director",
+        "Building Manager",
+        "Construction Coordinator",
+        "Construction",
+        "Contractor",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "Director of Operations",
+        "VP of Operations",
+        "Operations",
+        "VP of Construction",
+        "Construction VP",
+        "Executive VP Construction",
+        "Senior VP Construction",
+        "Construction Executive",
+        "VP",
+        "Vice President",
+        "Facilities Manager",
+        "Facilities Director",
+        "Property Manager",
+        "Property Director",
+        "Real Estate Manager",
+        "Facilities",
+        "Property",
+        "Real Estate",
+        "Building Engineer",
+        "Chief Engineer",
+        "Maintenance Manager",
+        "Building Maintenance Manager",
+        "Technical Manager",
+        "Engineer",
+        "Maintenance",
+        "Asset Manager",
+        "Portfolio Manager",
+        "Real Estate Asset Manager",
+        "Investment Manager",
+        "Development Manager",
+        "Asset",
+        "Development",
+        "Manager",
+        "Director"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "238910",
+          "name": "Site Preparation Contractors"
+        },
+        {
+          "naicsCode": "561730",
+          "name": "Landscaping Services"
+        },
+        {
+          "naicsCode": "238160",
+          "name": "Roofing Contractors"
+        },
+        {
+          "naicsCode": "531311",
+          "name": "Residential Property Managers, Nonresidential Property Managers"
+        },
+        {
+          "naicsCode": "561920",
+          "name": "Convention and Trade Show, Organizers"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "CA - Monterey Bay",
+        "CA - Sacramento",
+        "CA - San Jose",
+        "CA - San Francisco"
+      ],
+      "job_titles": [
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Facilities",
+        "Property",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Green Building Manager",
+        "Sustainability",
+        "Environmental",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Procurement",
+        "Purchasing",
+        "Sourcing",
+        "Contract Analyst",
+        "Contract Manager",
+        "Contracts Director",
+        "Contract Specialist",
+        "Legal Analyst",
+        "Contract",
+        "Legal",
+        "Compliance Manager",
+        "Government Relations Manager",
+        "Public Affairs Manager",
+        "Administrative Manager",
+        "Business Analyst",
+        "Compliance",
+        "Government",
+        "Public Affairs",
+        "Administrative",
+        "Manager",
+        "Director",
+        "Analyst"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "562111",
+          "name": "Residential solid waste collections processing franchise agreements"
+        },
+        {
+          "naicsCode": "921110",
+          "name": "Cities"
+        },
+        {
+          "naicsCode": "562920",
+          "name": "Solid Waste Management Authority"
+        },
+        {
+          "naicsCode": "237990",
+          "name": "Public Works"
+        },
+        {
+          "naicsCode": "921190",
+          "name": "Government Initiatives"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "California",
+        "savannah",
+        "new jersey"
+      ],
+      "job_titles": [
+        "Drayage Manager",
+        "Drayage Coordinator",
+        "Drayage Operations Manager",
+        "Container Operations Manager",
+        "Port Operations Manager",
+        "Import Manager",
+        "Import Director",
+        "Import Coordinator",
+        "Import Operations Manager",
+        "International Trade Manager",
+        "Export Manager",
+        "Export Director",
+        "Export Coordinator",
+        "Export Operations Manager",
+        "International Sales Manager",
+        "Logistics Manager",
+        "Transportation Manager",
+        "Freight Manager",
+        "Shipping Manager",
+        "Cargo Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations"
+      ],
+      "naics_codes": []
+    },
+    {
+      "locations": [
+        "CA - San Jose"
+      ],
+      "job_titles": [
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Green Building Manager",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Contract Manager",
+        "Contract Specialist",
+        "Vendor Manager",
+        "Strategic Sourcing Manager",
+        "Category Manager"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "236220",
+          "name": "General contractors"
+        },
+        {
+          "naicsCode": "238910",
+          "name": "Demolition"
+        },
+        {
+          "naicsCode": "236118",
+          "name": "remodel"
+        },
+        {
+          "naicsCode": "238160",
+          "name": "roofing"
+        },
+        {
+          "naicsCode": "531120",
+          "name": "offices"
+        },
+        {
+          "naicsCode": "611110",
+          "name": "schools"
+        },
+        {
+          "naicsCode": "813110",
+          "name": "churches"
+        },
+        {
+          "naicsCode": "453998",
+          "name": "and retail establishments"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "TX - Dallas"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Project",
+        "Superintendent",
+        "Site Superintendent",
+        "Construction Superintendent",
+        "Field Superintendent",
+        "General Superintendent",
+        "Supervisor",
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Facilities",
+        "Property",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Executive",
+        "Principal",
+        "Construction Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Construction",
+        "Operations",
+        "Manager",
+        "Director"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "236",
+          "name": "Construction of Buildings"
+        },
+        {
+          "naicsCode": "236118",
+          "name": "Residential Remodelers"
+        },
+        {
+          "naicsCode": "23622",
+          "name": "Commercial and Institutional Building Construction"
+        },
+        {
+          "naicsCode": "23891",
+          "name": "Site Preparation Contractors"
+        },
+        {
+          "naicsCode": "2373",
+          "name": "Highway, Street, and Bridge Construction"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "TX - Dallas"
+      ],
+      "job_titles": [
+        "Construction Manager",
+        "General Contractor",
+        "Construction Director",
+        "Senior Construction Manager",
+        "Construction Coordinator",
+        "Construction",
+        "Contractor",
+        "Site Supervisor",
+        "Site Manager",
+        "Site Superintendent",
+        "Field Supervisor",
+        "Construction Supervisor",
+        "Site",
+        "Supervisor",
+        "Superintendent",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Facility Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Building Manager",
+        "Maintenance Manager",
+        "Facilities",
+        "Maintenance",
+        "Property Manager",
+        "Property Director",
+        "Real Estate Manager",
+        "Asset Manager",
+        "Portfolio Manager",
+        "Property",
+        "Real Estate",
+        "Asset",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Executive",
+        "Principal",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Procurement Officer",
+        "Sourcing Manager",
+        "Procurement",
+        "Purchasing",
+        "Sourcing",
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Project",
+        "Manager",
+        "Director",
+        "Coordinator"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "236",
+          "name": "Construction of Buildings"
+        },
+        {
+          "naicsCode": "236118",
+          "name": "Residential Remodelers"
+        },
+        {
+          "naicsCode": "23622",
+          "name": "Commercial and Institutional Building Construction"
+        },
+        {
+          "naicsCode": "23891",
+          "name": "Site Preparation Contractors"
+        },
+        {
+          "naicsCode": "23811",
+          "name": "Poured Concrete Foundation and Structure Contractors"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "CA - Monterey Bay",
+        "CA - Sacramento",
+        "CA - San Francisco"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "CFO",
+        "Chief Financial Officer",
+        "Finance Director",
+        "Financial Manager",
+        "Controller",
+        "CEO",
+        "Chief Executive Officer",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "2362",
+          "name": "Nonresidential Building Construction"
+        },
+        {
+          "naicsCode": "23622",
+          "name": "Commercial and Institutional Building Construction"
+        },
+        {
+          "naicsCode": "311",
+          "name": "Food Manufacturing"
+        },
+        {
+          "naicsCode": "3121",
+          "name": "Beverage Manufacturing"
+        },
+        {
+          "naicsCode": "324",
+          "name": "Petroleum and Coal Products Manufacturing"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "New Jersey"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Site Supervisor",
+        "Site Manager",
+        "Site Superintendent",
+        "Field Supervisor",
+        "Construction Supervisor",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Coordinator",
+        "Project Coordinator",
+        "Construction Coordinator",
+        "Operations Coordinator",
+        "Administrative Coordinator",
+        "Superintendent",
+        "General Superintendent",
+        "Construction Superintendent",
+        "Field Superintendent",
+        "Site Superintendent",
+        "Construction Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "23",
+          "name": "Construction"
+        },
+        {
+          "naicsCode": "561920",
+          "name": "Convention and Trade Show Organizers"
+        },
+        {
+          "naicsCode": "711310",
+          "name": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+        },
+        {
+          "naicsCode": "562910",
+          "name": "Remediation Services"
+        },
+        {
+          "naicsCode": "238160",
+          "name": "Roofing Contractors"
+        },
+        {
+          "naicsCode": "561730",
+          "name": "Landscaping Services"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "CA - San Jose",
+        "CA - San Francisco"
+      ],
+      "job_titles": [
+        "EHS Manager",
+        "Environmental Health Safety Manager",
+        "Safety Manager",
+        "Safety Director",
+        "Environmental Manager",
+        "EHS",
+        "Safety",
+        "Environmental",
+        "Health",
+        "Facility Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Facilities",
+        "Property",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Procurement",
+        "Purchasing",
+        "Supply Chain",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Quality Manager",
+        "Compliance Manager",
+        "Risk Manager",
+        "Regulatory Affairs Manager",
+        "Manufacturing Manager",
+        "Quality",
+        "Compliance",
+        "Risk",
+        "Regulatory",
+        "Manufacturing",
+        "Manager",
+        "Director"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "424210",
+          "name": "Drug Suppliers"
+        },
+        {
+          "naicsCode": "446110",
+          "name": "Pharmacies"
+        },
+        {
+          "naicsCode": "334413",
+          "name": "Semiconductor and Related Device Manufacturing"
+        },
+        {
+          "naicsCode": "3344",
+          "name": "Semiconductor and Other Electronic Component Manufacturing"
+        },
+        {
+          "naicsCode": "33591",
+          "name": "Battery Manufacturing"
+        },
+        {
+          "naicsCode": "3353",
+          "name": "Electrical Equipment Manufacturing"
+        },
+        {
+          "naicsCode": "3359",
+          "name": "Other Electrical Equipment and Component Manufacturing"
+        },
+        {
+          "naicsCode": "3311",
+          "name": "Iron and Steel Mills and Ferroalloy Manufacturing"
+        },
+        {
+          "naicsCode": "3313",
+          "name": "Alumina and Aluminum Production and Processing"
+        },
+        {
+          "naicsCode": "3314",
+          "name": "Nonferrous Metal (except Aluminum) Production and Processing"
+        },
+        {
+          "naicsCode": "3315",
+          "name": "Foundries"
+        },
+        {
+          "naicsCode": "332",
+          "name": "Fabricated Metal Product Manufacturing"
+        },
+        {
+          "naicsCode": "3328",
+          "name": "Coating, Engraving, Heat Treating, and Allied Activities"
+        },
+        {
+          "naicsCode": "3327",
+          "name": ""
+        },
+        {
+          "naicsCode": "324121",
+          "name": "Asphalt Paving"
+        },
+        {
+          "naicsCode": "324122",
+          "name": "Roofing and Saturated Materials Manufacturing"
+        },
+        {
+          "naicsCode": "541380",
+          "name": "Testing Laboratories and Services"
+        },
+        {
+          "naicsCode": "541940",
+          "name": "Veterinarians"
+        },
+        {
+          "naicsCode": "812210",
+          "name": "Funeral Homes"
+        },
+        {
+          "naicsCode": "541715",
+          "name": "Medical Research Facilities"
+        },
+        {
+          "naicsCode": "3364",
+          "name": "Aerospace Product and Parts Manufacturing"
+        },
+        {
+          "naicsCode": "3361",
+          "name": "Motor Vehicle Manufacturing"
+        },
+        {
+          "naicsCode": "3362",
+          "name": "Motor Vehicle Body and Trailer Manufacturing"
+        },
+        {
+          "naicsCode": "3363",
+          "name": "Motor Vehicle Parts Manufacturing"
+        },
+        {
+          "naicsCode": "3366",
+          "name": "Ship and Boat Building"
+        },
+        {
+          "naicsCode": "3365",
+          "name": "Railroad Rolling Stock Manufacturing"
+        },
+        {
+          "naicsCode": "5417",
+          "name": "Scientific Research and Development Services"
+        },
+        {
+          "naicsCode": "211",
+          "name": "Oil and Gas Extraction"
+        },
+        {
+          "naicsCode": "212",
+          "name": "Mining (except Oil and Gas)"
+        },
+        {
+          "naicsCode": "2211",
+          "name": "Electric Power Generation, Transmission and Distribution"
+        },
+        {
+          "naicsCode": "3231",
+          "name": "Printing and Related Support Activities"
+        },
+        {
+          "naicsCode": "8113",
+          "name": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+        },
+        {
+          "naicsCode": "81112",
+          "name": "Automotive Body, Paint, Interior, and Glass Repair"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Michigan",
+        "Indiana",
+        "Illinois",
+        "Ohio"
+      ],
+      "job_titles": [
+        "Purchasing Manager",
+        "Procurement Manager",
+        "Purchasing Director",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Facility Manager",
+        "Facilities Director",
+        "Plant Manager",
+        "Manufacturing Manager",
+        "Production Manager",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Recycling Manager",
+        "Business Owner",
+        "Owner",
+        "CEO",
+        "President",
+        "General Manager",
+        "Mill Technician",
+        "Production Technician",
+        "Process Technician",
+        "Quality Technician",
+        "Maintenance Technician",
+        "Mill Manager",
+        "Production Manager",
+        "Plant Manager",
+        "Manufacturing Supervisor",
+        "Recycling Supervisor"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "42393",
+          "name": "Recyclable Material Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "4235",
+          "name": "Metal and Mineral (except Petroleum) Merchant Wholesalers"
+        },
+        {
+          "naicsCode": "4241",
+          "name": "Paper and Paper Product Merchant Wholesalers"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "CA - Los Angeles"
+      ],
+      "job_titles": [
+        "Director of Operations",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Warehouse Manager",
+        "Warehouse Director",
+        "Warehouse Supervisor",
+        "Distribution Manager",
+        "Fulfillment Manager",
+        "Maintenance Manager",
+        "Facilities Manager",
+        "Building Maintenance Manager",
+        "Plant Maintenance Manager",
+        "Maintenance Supervisor",
+        "Compliance Officer",
+        "Compliance Manager",
+        "Quality Manager",
+        "Safety Manager",
+        "Regulatory Affairs Manager",
+        "Construction Manager",
+        "Project Manager",
+        "General Contractor",
+        "Site Manager",
+        "Field Manager"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "23",
+          "name": "Construction"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Georgia"
+      ],
+      "job_titles": [
+        "General Manager",
+        "Assistant General Manager",
+        "Regional Manager",
+        "District Manager",
+        "Managing Director",
+        "Manager",
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Operations",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Partner",
+        "Business Owner",
+        "Executive",
+        "Principal",
+        "Partner",
+        "Facilities Manager",
+        "Facilities Director",
+        "Property Manager",
+        "Building Manager",
+        "Site Manager",
+        "Facilities",
+        "Property",
+        "Purchasing Manager",
+        "Procurement Manager",
+        "Purchasing Director",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Purchasing",
+        "Procurement",
+        "Sourcing",
+        "Buyer",
+        "Project Manager",
+        "Project Director",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Project Coordinator",
+        "Project",
+        "Superintendent",
+        "General Superintendent",
+        "Construction Superintendent",
+        "Site Superintendent",
+        "Field Superintendent",
+        "Supervisor",
+        "Director",
+        "Coordinator"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "23",
+          "name": "Construction"
+        },
+        {
+          "naicsCode": "722511",
+          "name": "Resturants"
+        },
+        {
+          "naicsCode": "721110",
+          "name": "Hotels"
+        },
+        {
+          "naicsCode": "31-33",
+          "name": "Manufacturing"
+        },
+        {
+          "naicsCode": "4931",
+          "name": "warehouse"
+        },
+        {
+          "naicsCode": "44-45",
+          "name": "retail"
+        },
+        {
+          "naicsCode": "42",
+          "name": "wholesale"
+        },
+        {
+          "naicsCode": "711310",
+          "name": "venues"
+        },
+        {
+          "naicsCode": "611110",
+          "name": "schools"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Alabama"
+      ],
+      "job_titles": [
+        "Director of Sales",
+        "Sales Director",
+        "Regional Sales Director",
+        "National Sales Director",
+        "Senior Sales Director",
+        "Sales",
+        "VP of Sales",
+        "Vice President of Sales",
+        "Senior VP of Sales",
+        "Executive VP of Sales",
+        "Sales VP",
+        "VP",
+        "Vice President",
+        "Sales Manager",
+        "Regional Sales Manager",
+        "District Sales Manager",
+        "Area Sales Manager",
+        "Territory Sales Manager",
+        "Manager",
+        "Chief Revenue Officer",
+        "CRO",
+        "Revenue Director",
+        "Business Development Director",
+        "Sales and Marketing Director",
+        "Commercial Director",
+        "Revenue",
+        "Business Development",
+        "Commercial",
+        "Marketing",
+        "Key Account Manager",
+        "Account Director",
+        "Business Development Manager",
+        "Commercial Manager",
+        "Account",
+        "Director",
+        "Executive"
+      ],
+      "naics_codes": []
+    },
+    {
+      "locations": [
+        "CA - Sacramento"
+      ],
+      "job_titles": [
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Green Building Manager",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Contract Manager",
+        "Construction Manager",
+        "Project Manager",
+        "General Contractor",
+        "Site Manager"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "23",
+          "name": "Construction"
+        },
+        {
+          "naicsCode": "238330",
+          "name": "Commercial Flooring"
+        },
+        {
+          "naicsCode": "321920",
+          "name": "Wood Pallets"
+        },
+        {
+          "naicsCode": "327320",
+          "name": "Concrete Companies"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "South Carolina",
+        "North Carolina",
+        "Georgia"
+      ],
+      "job_titles": [
+        "Chief Supply Chain Officer",
+        "CSCO",
+        "VP Supply Chain",
+        "Supply Chain Director",
+        "Senior VP Supply Chain",
+        "Chief Logistics Officer",
+        "CLO",
+        "VP Logistics",
+        "Logistics Director",
+        "Senior VP Logistics",
+        "Chief Operating Officer",
+        "COO",
+        "VP Operations",
+        "Operations Director",
+        "Senior VP Operations",
+        "Senior Vice President Logistics",
+        "Executive VP Logistics",
+        "SVP Logistics",
+        "Logistics Executive",
+        "National Logistics Director",
+        "Vice President Operations",
+        "VP of Operations",
+        "Executive VP Operations",
+        "Operations VP",
+        "Regional Operations VP",
+        "Vice President Supply Chain",
+        "VP of Supply Chain",
+        "Executive VP Supply Chain",
+        "Supply Chain VP",
+        "Global Supply Chain VP",
+        "Director of Logistics",
+        "Logistics Director",
+        "Regional Logistics Director",
+        "National Logistics Director",
+        "Transportation Director",
+        "Director of Operations",
+        "Operations Director",
+        "Regional Operations Director",
+        "Manufacturing Operations Director",
+        "Plant Operations Director",
+        "Director of Import/Export",
+        "Import/Export Director",
+        "International Trade Director",
+        "Global Trade Director",
+        "Trade Compliance Director",
+        "Director of Warehouse Operations",
+        "Warehouse Operations Director",
+        "Distribution Director",
+        "Fulfillment Director",
+        "DC Operations Director",
+        "Director of Traffic/Transportation",
+        "Transportation Director",
+        "Traffic Director",
+        "Fleet Director",
+        "Shipping Director"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "488510",
+          "name": "Freight Transportation Arrangement"
+        },
+        {
+          "naicsCode": "541614",
+          "name": "Process, Physical Distribution, and Logistics Consulting Services"
+        },
+        {
+          "naicsCode": "336111",
+          "name": "Automobile Manufacturing"
+        },
+        {
+          "naicsCode": "336112",
+          "name": "Light Truck and Utility Vehicle Manufacturing"
+        },
+        {
+          "naicsCode": "336120",
+          "name": "Heavy Duty Truck Manufacturing"
+        },
+        {
+          "naicsCode": "336390",
+          "name": "Other Motor Vehicle Parts Manufacturing"
+        },
+        {
+          "naicsCode": "316210",
+          "name": "Footwear Manufacturing"
+        },
+        {
+          "naicsCode": "325110",
+          "name": "Petrochemical Manufacturing"
+        },
+        {
+          "naicsCode": "325180",
+          "name": "Other Basic Inorganic Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "325199",
+          "name": "All Other Basic Organic Chemical Manufacturing"
+        },
+        {
+          "naicsCode": "325211",
+          "name": "Plastics Material and Resin Manufacturing"
+        },
+        {
+          "naicsCode": "441310",
+          "name": "Auto parts retail manufacturing"
+        },
+        {
+          "naicsCode": "484220",
+          "name": "Non Hazardous Hazmat Chemical transport companies"
+        },
+        {
+          "naicsCode": "551114",
+          "name": "Consumer Goods Corporate offices"
+        },
+        {
+          "naicsCode": "3PL Warehouses",
+          "name": ""
+        },
+        {
+          "naicsCode": "493120",
+          "name": "Cold storage Transport companies"
+        },
+        {
+          "naicsCode": "448140",
+          "name": "Retail Clothing Manufacturers"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Denver, CO",
+        "Colorado Springs, CO"
+      ],
+      "job_titles": [
+        "Operations Manager",
+        "Operations Director",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Logistics Manager",
+        "Logistics Director",
+        "Supply Chain Manager",
+        "Transportation Manager",
+        "Distribution Manager",
+        "Chief Revenue Officer",
+        "CRO",
+        "VP of Sales",
+        "Revenue Director",
+        "Sales Director",
+        "Chief Financial Officer",
+        "CFO",
+        "Finance Director",
+        "Financial Manager",
+        "Controller",
+        "General Manager",
+        "Plant Manager",
+        "Manufacturing Manager",
+        "Production Manager",
+        "CEO"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "23621",
+          "name": "Industrial Building Construction"
+        },
+        {
+          "naicsCode": "23622",
+          "name": "Commercial and Institutional Building Construction"
+        },
+        {
+          "naicsCode": "311",
+          "name": "Food Manufacturing"
+        },
+        {
+          "naicsCode": "3121",
+          "name": "Beverage Manufacturing"
+        },
+        {
+          "naicsCode": "322",
+          "name": "Paper Manufacturing"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "CA - Sacramento"
+      ],
+      "job_titles": [
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Green Building Manager",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Landscape Manager",
+        "Grounds Manager",
+        "Maintenance Manager",
+        "Site Manager",
+        "Contract Manager"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "23",
+          "name": "Construction"
+        },
+        {
+          "naicsCode": "561730",
+          "name": "Landscaping Services"
+        }
+      ]
+    },
+    {
+      "locations": [
+        "Acworth",
+        "Atlanta",
+        "Georgia"
+      ],
+      "job_titles": [
+        "Project Manager",
+        "Project Director",
+        "Project Coordinator",
+        "Senior Project Manager",
+        "Construction Project Manager",
+        "Site Supervisor",
+        "Site Manager",
+        "Site Superintendent",
+        "Field Supervisor",
+        "Construction Supervisor",
+        "Facility Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Construction Manager",
+        "General Contractor",
+        "Building Superintendent",
+        "Maintenance Manager",
+        "Owner",
+        "CEO",
+        "President",
+        "General Manager",
+        "Regional Manager",
+        "District Manager"
+      ],
+      "naics_codes": []
+    },
+    {
+      "locations": [
+        "CA - San Francisco"
+      ],
+      "job_titles": [
+        "Facilities Manager",
+        "Facilities Director",
+        "Facilities Coordinator",
+        "Property Manager",
+        "Building Manager",
+        "Operations Director",
+        "Operations Manager",
+        "COO",
+        "VP of Operations",
+        "Director of Operations",
+        "Sustainability Officer",
+        "Environmental Manager",
+        "Sustainability Director",
+        "Environmental Coordinator",
+        "Green Building Manager",
+        "Procurement Manager",
+        "Purchasing Manager",
+        "Procurement Director",
+        "Sourcing Manager",
+        "Supply Chain Manager",
+        "Owner",
+        "CEO",
+        "President",
+        "Managing Director",
+        "General Manager",
+        "Director",
+        "Business Director",
+        "Regional Director",
+        "Executive Director",
+        "Operations",
+        "Operations Specialist",
+        "Operations Coordinator",
+        "Business Operations Manager",
+        "LEED Professional",
+        "LEED AP",
+        "Green Building Consultant",
+        "Sustainability Consultant",
+        "Environmental Consultant",
+        "Construction Manager",
+        "Project Manager"
+      ],
+      "naics_codes": [
+        {
+          "naicsCode": "236220",
+          "name": "Construction, Demolition, remodel, roofing, General contractors"
+        },
+        {
+          "naicsCode": "561730",
+          "name": "Landscapers & Yard‑waste Generators"
+        },
+        {
+          "naicsCode": "561110",
+          "name": "Commercial Business,  offices, schools, churches, retail establishments, Hotels"
+        },
+        {
+          "naicsCode": "111332",
+          "name": "Farms, Vineyards"
+        },
+        {
+          "naicsCode": "23",
+          "name": "Construction"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_combinations": 26,
+    "total_unique_locations": 26,
+    "total_unique_job_titles": 97,
+    "total_unique_naics_codes": 169
+  }
+}
