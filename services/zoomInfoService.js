@@ -144,7 +144,9 @@ class ZoomInfoService {
         this.logger.error('Response data:', error.response.data);
       }
       
-      throw new Error(`${operation} failed: ${error.response?.status || 'unknown'} - ${error.message}`);
+      // Include the actual API error message if available
+      const apiErrorMessage = error.response?.data?.error || error.response?.data?.message || error.message;
+      throw new Error(`${operation} failed: ${error.response?.status || 'unknown'} - ${apiErrorMessage}`);
     }
   }
 

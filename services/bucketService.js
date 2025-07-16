@@ -14,18 +14,52 @@ class BucketService {
 
   async downloadCompanyExclusions() {
     try {
-      this.logger.info('Downloading company exclusion list from bucket');
+      this.logger.info('Loading company exclusion list - checking local vs bucket');
       
       const file = this.bucket.file('zi-backups/existing_ziids.csv');
-      const [exists] = await file.exists();
+      const [bucketExists] = await file.exists();
       
-      if (!exists) {
-        this.logger.info('No company exclusion list found in bucket, starting with empty set');
+      // Check if local file exists
+      const localExists = await fs.access(this.exclusionsFile).then(() => true).catch(() => false);
+      
+      let useLocalFile = false;
+      
+      if (!bucketExists && !localExists) {
+        this.logger.info('No exclusion list found locally or in bucket, starting with empty set');
+        this.companyExclusions = new Set();
         return;
       }
-
-      // Download to local file
-      await file.download({ destination: this.exclusionsFile });
+      
+      if (!bucketExists && localExists) {
+        this.logger.info('No bucket file found, using local exclusion list');
+        useLocalFile = true;
+      } else if (bucketExists && !localExists) {
+        this.logger.info('No local file found, downloading from bucket');
+        useLocalFile = false;
+      } else {
+        // Both files exist - compare sizes
+        const [bucketMetadata] = await file.getMetadata();
+        const localStats = await fs.stat(this.exclusionsFile);
+        
+        const bucketSize = parseInt(bucketMetadata.size) || 0;
+        const localSize = localStats.size;
+        
+        this.logger.info(`Comparing file sizes - Local: ${localSize} bytes, Bucket: ${bucketSize} bytes`);
+        
+        if (localSize >= bucketSize) {
+          this.logger.info('Local file is larger or equal, using local exclusion list');
+          useLocalFile = true;
+        } else {
+          this.logger.info('Bucket file is larger, downloading from bucket');
+          useLocalFile = false;
+        }
+      }
+      
+      // Download from bucket if needed
+      if (!useLocalFile) {
+        await file.download({ destination: this.exclusionsFile });
+        this.logger.info('Downloaded exclusion list from bucket');
+      }
       
       // Load into memory set - handle CSV format
       const content = await fs.readFile(this.exclusionsFile, 'utf8');
@@ -35,11 +69,11 @@ class BucketService {
         .map(line => line.replace(/[",]/g, '')); // Remove CSV formatting
       
       this.companyExclusions = new Set(ziIds);
-      this.logger.info(`Loaded ${this.companyExclusions.size} company zi-ids for exclusion`);
+      this.logger.info(`Loaded ${this.companyExclusions.size} company zi-ids for exclusion from ${useLocalFile ? 'local file' : 'bucket'}`);
       
     } catch (error) {
-      this.logger.error('Error downloading company exclusions:', error);
-      // Continue with empty set if download fails
+      this.logger.error('Error loading company exclusions:', error);
+      // Continue with empty set if loading fails
       this.companyExclusions = new Set();
     }
   }

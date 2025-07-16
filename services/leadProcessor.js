@@ -77,8 +77,19 @@ class LeadProcessor {
     this.logger.info(`Starting ${location}+${naicsCode}+${jobTitle} from page ${page}`);
     
     // Search companies for this location + NAICS combination
+    let totalCount = null;
     while (hasMorePages) {
       try {
+        // Pre-emptive check if we already know the total count and page is too high
+        if (totalCount !== null) {
+          const maxPage = Math.ceil(totalCount / this.batchSize);
+          if (page > maxPage) {
+            this.logger.info(`Skipping page ${page} as it exceeds max page ${maxPage} (totalCount: ${totalCount})`);
+            hasMorePages = false;
+            break;
+          }
+        }
+        
         // Determine if location is a state or metro region
         const isMetroRegion = location.includes(' - ') || location.includes(', ');
         const companySearchParams = {
@@ -90,6 +101,11 @@ class LeadProcessor {
         
         this.logger.info(`Searching companies: ${location} + ${naicsCode}, page ${page}`);
         const companyResults = await this.zoomInfoService.searchCompanies(companySearchParams);
+        
+        // Store total count for future reference
+        if (companyResults.totalCount !== undefined) {
+          totalCount = companyResults.totalCount;
+        }
         
         if (!companyResults.data || companyResults.data.length === 0) {
           this.logger.info(`No more companies found for ${location}+${naicsCode} at page ${page}`);
@@ -134,17 +150,36 @@ class LeadProcessor {
         // Check if there are more pages
         const totalPages = Math.ceil(companyResults.totalCount / this.batchSize);
         if (page >= totalPages) {
+          this.logger.info(`Reached last page (${page}/${totalPages}) for ${location}+${naicsCode}`);
           hasMorePages = false;
         } else {
           page++;
+          // Additional safety check - prevent going beyond reasonable page numbers
+          if (page > totalPages + 5) {
+            this.logger.warn(`Page ${page} exceeds total pages ${totalPages} by too much, stopping pagination`);
+            hasMorePages = false;
+          }
         }
         
       } catch (error) {
         this.logger.error(`Error processing page ${page} for ${location}+${naicsCode}:`, error);
         
         // Check if it's a "page number too high" error
-        if (error.message.includes('400') && (error.message.includes('page number') || error.message.includes('greater than'))) {
-          this.logger.info(`Reached end of available pages for ${location}+${naicsCode} at page ${page}`);
+        // The error message could be in error.message or in the original API response
+        const errorMessage = error.message ? error.message.toLowerCase() : '';
+        const errorString = JSON.stringify(error).toLowerCase();
+        
+        // Check for the specific error pattern: "Page number (page) requested is greater than the available results"
+        const isPageTooHighError = (errorMessage.includes('400') || errorString.includes('400')) && 
+          (errorMessage.includes('page number') || 
+           errorMessage.includes('page) requested is greater than') ||
+           errorMessage.includes('greater than the available results') ||
+           errorString.includes('page number') ||
+           errorString.includes('page) requested is greater than') ||
+           errorString.includes('greater than the available results'));
+        
+        if (isPageTooHighError) {
+          this.logger.info(`Reached end of available pages for ${location}+${naicsCode} at page ${page} - stopping pagination immediately`);
           hasMorePages = false;
           break;
         }
