@@ -16,7 +16,6 @@ yarn-error.log*
 service-account-*.json
 
 # Local data and state
-data/
 logs/
 *.log
 
