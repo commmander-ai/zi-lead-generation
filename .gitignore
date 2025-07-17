@@ -21,6 +21,9 @@ data/zi-token.json
 # Local data and state
 logs/
 *.log
+data/vm-state.json
+data/existing_ziids.csv
+
 
 
 # IDE
@@ -36,3 +39,6 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+
+
+# 
