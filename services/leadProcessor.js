@@ -1,5 +1,6 @@
 const CSVWriter = require('../utils/csvWriter');
-const { getSearchCombinations, getValidGroupCount } = require('../config/searchParams');
+// Use the new bulk search parameter strategy
+const { getSearchCombinations, getValidGroupCount } = require('../config/bulkSearchParams');
 const path = require('path');
 
 class LeadProcessor {

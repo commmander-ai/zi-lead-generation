@@ -1,0 +1,1330 @@
+{
+    "unique_job_titles": [
+      "Account",
+      "Account Director",
+      "Administrative",
+      "Administrative Coordinator",
+      "Administrative Manager",
+      "Analyst",
+      "Area Sales Manager",
+      "Asset",
+      "Asset Manager",
+      "Assistant General Manager",
+      "Branch Manager",
+      "Builder",
+      "Building",
+      "Building Engineer",
+      "Building Manager",
+      "Building Maintenance Manager",
+      "Building Superintendent",
+      "Business Analyst",
+      "Business Development",
+      "Business Development Director",
+      "Business Development Manager",
+      "Business Director",
+      "Business Operations Manager",
+      "Business Owner",
+      "Buyer",
+      "CEO",
+      "CFO",
+      "CLO",
+      "COO",
+      "CRO",
+      "CSCO",
+      "Cargo",
+      "Cargo Manager",
+      "Category Manager",
+      "Chief Engineer",
+      "Chief Executive Officer",
+      "Chief Financial Officer",
+      "Chief Logistics Officer",
+      "Chief Operating Officer",
+      "Chief Revenue Officer",
+      "Chief Supply Chain Officer",
+      "Commercial",
+      "Commercial Director",
+      "Commercial Manager",
+      "Compliance",
+      "Compliance Manager",
+      "Compliance Officer",
+      "Construction",
+      "Construction Coordinator",
+      "Construction Director",
+      "Construction Executive",
+      "Construction Manager",
+      "Construction Project Manager",
+      "Construction Superintendent",
+      "Construction Supervisor",
+      "Construction VP",
+      "Container",
+      "Container Drayage Manager",
+      "Container Operations Manager",
+      "Contract",
+      "Contract Analyst",
+      "Contract Manager",
+      "Contract Specialist",
+      "Contracts Director",
+      "Contractor",
+      "Controller",
+      "Coordinator",
+      "DC Operations Director",
+      "Development",
+      "Development Manager",
+      "Director",
+      "Director of Import/Export",
+      "Director of Logistics",
+      "Director of Operations",
+      "Director of Sales",
+      "Director of Traffic/Transportation",
+      "Director of Warehouse Operations",
+      "Distribution",
+      "Distribution Director",
+      "Distribution Manager",
+      "District Manager",
+      "District Sales Manager",
+      "Drayage",
+      "Drayage Coordinator",
+      "Drayage Director",
+      "Drayage Manager",
+      "Drayage Operations Manager",
+      "EHS",
+      "EHS Manager",
+      "Engineer",
+      "Environmental",
+      "Environmental Coordinator",
+      "Environmental Consultant",
+      "Environmental Health Safety Manager",
+      "Environmental Manager",
+      "Executive",
+      "Executive Director",
+      "Executive VP Construction",
+      "Executive VP Logistics",
+      "Executive VP of Sales",
+      "Executive VP Operations",
+      "Executive VP Supply Chain",
+      "Export",
+      "Export Coordinator",
+      "Export Director",
+      "Export Manager",
+      "Export Operations Manager",
+      "Facilities",
+      "Facilities Coordinator",
+      "Facilities Director",
+      "Facilities Manager",
+      "Facility Manager",
+      "Field Manager",
+      "Field Superintendent",
+      "Field Supervisor",
+      "Finance Director",
+      "Financial Manager",
+      "Fleet",
+      "Fleet Director",
+      "Fleet Manager",
+      "Foreman",
+      "Freight",
+      "Freight Manager",
+      "Fulfillment Director",
+      "Fulfillment Manager",
+      "General Contractor",
+      "General Manager",
+      "General Superintendent",
+      "Global Supply Chain VP",
+      "Global Trade Director",
+      "Government",
+      "Government Relations Manager",
+      "Green",
+      "Green Building Consultant",
+      "Green Building Manager",
+      "Grounds",
+      "Grounds Manager",
+      "Health",
+      "Horticulturist",
+      "Import",
+      "Import Coordinator",
+      "Import Director",
+      "Import Manager",
+      "Import Operations Manager",
+      "Import/Export Director",
+      "International",
+      "International Sales Manager",
+      "International Trade Director",
+      "International Trade Manager",
+      "Investment Manager",
+      "Key Account Manager",
+      "LEED AP",
+      "LEED Professional",
+      "Landscape",
+      "Landscape Architect",
+      "Landscape Designer",
+      "Landscape Manager",
+      "Legal",
+      "Legal Analyst",
+      "Logistics",
+      "Logistics Coordinator",
+      "Logistics Director",
+      "Logistics Executive",
+      "Logistics Manager",
+      "Maintenance",
+      "Maintenance Manager",
+      "Maintenance Supervisor",
+      "Maintenance Technician",
+      "Manager",
+      "Managing Director",
+      "Managing Partner",
+      "Manufacturing",
+      "Manufacturing Manager",
+      "Manufacturing Operations Director",
+      "Manufacturing Supervisor",
+      "Marketing",
+      "Mill Manager",
+      "Mill Technician",
+      "National Logistics Director",
+      "National Sales Director",
+      "Operations",
+      "Operations Coordinator",
+      "Operations Director",
+      "Operations Manager",
+      "Operations Specialist",
+      "Operations VP",
+      "Owner",
+      "Partner",
+      "Plant Manager",
+      "Plant Maintenance Manager",
+      "Plant Operations Director",
+      "Port",
+      "Port Operations Manager",
+      "Portfolio Manager",
+      "President",
+      "Principal",
+      "Process Technician",
+      "Procurement",
+      "Procurement Director",
+      "Procurement Manager",
+      "Procurement Officer",
+      "Procurement Specialist",
+      "Production Manager",
+      "Production Technician",
+      "Project",
+      "Project Coordinator",
+      "Project Director",
+      "Project Lead",
+      "Project Manager",
+      "Property",
+      "Property Director",
+      "Property Manager",
+      "Public Affairs",
+      "Public Affairs Manager",
+      "Purchasing",
+      "Purchasing Director",
+      "Purchasing Manager",
+      "Quality",
+      "Quality Manager",
+      "Quality Technician",
+      "Real Estate",
+      "Real Estate Asset Manager",
+      "Real Estate Manager",
+      "Recycling Manager",
+      "Recycling Supervisor",
+      "Regional Director",
+      "Regional Logistics Director",
+      "Regional Manager",
+      "Regional Operations Director",
+      "Regional Operations VP",
+      "Regional Sales Director",
+      "Regional Sales Manager",
+      "Regulatory",
+      "Regulatory Affairs Manager",
+      "Revenue",
+      "Revenue Director",
+      "Risk",
+      "Risk Manager",
+      "SVP Logistics",
+      "Safety",
+      "Safety Director",
+      "Safety Manager",
+      "Sales",
+      "Sales and Marketing Director",
+      "Sales Director",
+      "Sales Manager",
+      "Sales VP",
+      "Senior Construction Manager",
+      "Senior Project Manager",
+      "Senior Sales Director",
+      "Senior VP Construction",
+      "Senior VP Logistics",
+      "Senior VP of Sales",
+      "Senior VP Operations",
+      "Senior VP Supply Chain",
+      "Senior Vice President Logistics",
+      "Shipping",
+      "Shipping Director",
+      "Shipping Manager",
+      "Site",
+      "Site Foreman",
+      "Site Manager",
+      "Site Superintendent",
+      "Site Supervisor",
+      "Sourcing",
+      "Sourcing Manager",
+      "Strategic Sourcing Manager",
+      "Superintendent",
+      "Supervisor",
+      "Supply Chain",
+      "Supply Chain Director",
+      "Supply Chain Manager",
+      "Supply Chain VP",
+      "Sustainability",
+      "Sustainability Consultant",
+      "Sustainability Director",
+      "Sustainability Officer",
+      "Technical Manager",
+      "Territory Sales Manager",
+      "Trade",
+      "Trade Compliance Director",
+      "Traffic",
+      "Traffic Coordinator",
+      "Traffic Director",
+      "Traffic Manager",
+      "Transportation",
+      "Transportation Director",
+      "Transportation Manager",
+      "VP",
+      "VP Logistics",
+      "VP Operations",
+      "VP Supply Chain",
+      "VP of Construction",
+      "VP of Operations",
+      "VP of Sales",
+      "VP of Supply Chain",
+      "Vendor Manager",
+      "Vice President",
+      "Vice President of Sales",
+      "Vice President Operations",
+      "Vice President Supply Chain",
+      "Warehouse",
+      "Warehouse Director",
+      "Warehouse Manager",
+      "Warehouse Operations Director",
+      "Warehouse Supervisor"
+    ],
+    "unique_naics_codes": [
+      {
+        "naicsCode": "3327",
+        "name": ""
+      },
+      {
+        "naicsCode": "3PL Warehouses",
+        "name": ""
+      },
+      {
+        "naicsCode": "325520",
+        "name": "Adhesive Manufacturing"
+      },
+      {
+        "naicsCode": "3364",
+        "name": "Aerospace Product and Parts Manufacturing"
+      },
+      {
+        "naicsCode": "11",
+        "name": "Agriculture"
+      },
+      {
+        "naicsCode": "325199",
+        "name": "All Other Basic Organic Chemical Manufacturing"
+      },
+      {
+        "naicsCode": "3313",
+        "name": "Alumina and Aluminum Production and Processing"
+      },
+      {
+        "naicsCode": "453998",
+        "name": "and retail establishments"
+      },
+      {
+        "naicsCode": "315990",
+        "name": "Apparel Accessories & Other Apparel Manufacturing"
+      },
+      {
+        "naicsCode": "324121",
+        "name": "Asphalt Paving"
+      },
+      {
+        "naicsCode": "441310",
+        "name": "Auto parts retail manufacturing"
+      },
+      {
+        "naicsCode": "336111",
+        "name": "Automobile & Light-Duty Vehicle Manufacturing"
+      },
+      {
+        "naicsCode": "336110",
+        "name": "Automobile & Light-Duty Vehicle Manufacturing"
+      },
+      {
+        "naicsCode": "336111",
+        "name": "Automobile Manufacturing"
+      },
+      {
+        "naicsCode": "81112",
+        "name": "Automotive Body, Paint, Interior, and Glass Repair"
+      },
+      {
+        "naicsCode": "33591",
+        "name": "Battery Manufacturing"
+      },
+      {
+        "naicsCode": "424820",
+        "name": "Beer, Wine & Distilled Beverage Wholesalers"
+      },
+      {
+        "naicsCode": "4248",
+        "name": "Beer, Wine & Distilled Beverage Wholesalers"
+      },
+      {
+        "naicsCode": "3121",
+        "name": "Beverage Manufacturing"
+      },
+      {
+        "naicsCode": "423320",
+        "name": "Brick, Stone & Construction Material Wholesalers"
+      },
+      {
+        "naicsCode": "313210",
+        "name": "Broadwoven Fabric Mills"
+      },
+      {
+        "naicsCode": "327310",
+        "name": "Cement Manufacturing"
+      },
+      {
+        "naicsCode": "813110",
+        "name": "churches"
+      },
+      {
+        "naicsCode": "921110",
+        "name": "Cities"
+      },
+      {
+        "naicsCode": "237990",
+        "name": "Civil Contractors"
+      },
+      {
+        "naicsCode": "3328",
+        "name": "Coating, Engraving, Heat Treating, and Allied Activities"
+      },
+      {
+        "naicsCode": "493120",
+        "name": "Cold storage Transport companies"
+      },
+      {
+        "naicsCode": "561110",
+        "name": "Commercial Business,  offices, schools, churches, retail establishments, Hotels"
+      },
+      {
+        "naicsCode": "238330",
+        "name": "Commercial Flooring"
+      },
+      {
+        "naicsCode": "8113",
+        "name": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+      },
+      {
+        "naicsCode": "23622",
+        "name": "Commercial and Institutional Building Construction"
+      },
+      {
+        "naicsCode": "334220",
+        "name": "Communications Equipment Manufacturing"
+      },
+      {
+        "naicsCode": "3342",
+        "name": "Communications Equipment Manufacturing"
+      },
+      {
+        "naicsCode": "327320",
+        "name": "Concrete Companies"
+      },
+      {
+        "naicsCode": "238110",
+        "name": "Concrete Contractors"
+      },
+      {
+        "naicsCode": "424450",
+        "name": "Confectionery Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "23",
+        "name": "Construction"
+      },
+      {
+        "naicsCode": "423810",
+        "name": "Construction & Mining Machinery Wholesalers"
+      },
+      {
+        "naicsCode": "333120",
+        "name": "Construction Machinery Manufacturing"
+      },
+      {
+        "naicsCode": "236",
+        "name": "Construction of Buildings"
+      },
+      {
+        "naicsCode": "236220",
+        "name": "Construction, Demolition, remodel, roofing, General contractors"
+      },
+      {
+        "naicsCode": "551114",
+        "name": "Consumer Goods Corporate offices"
+      },
+      {
+        "naicsCode": "561920",
+        "name": "Convention and Trade Show Organizers"
+      },
+      {
+        "naicsCode": "561920",
+        "name": "Convention and Trade Show, Organizers"
+      },
+      {
+        "naicsCode": "333922",
+        "name": "Conveyor & Conveying Equipment Manufacturing"
+      },
+      {
+        "naicsCode": "327991",
+        "name": "Cut Stone & Stone Product Manufacturing"
+      },
+      {
+        "naicsCode": "238910",
+        "name": "Demolition"
+      },
+      {
+        "naicsCode": "493110",
+        "name": "Distribution center"
+      },
+      {
+        "naicsCode": "484121",
+        "name": "Drayage"
+      },
+      {
+        "naicsCode": "424210",
+        "name": "Drug Suppliers"
+      },
+      {
+        "naicsCode": "2211",
+        "name": "Electric Power Generation, Transmission and Distribution"
+      },
+      {
+        "naicsCode": "3353",
+        "name": "Electrical Equipment Manufacturing"
+      },
+      {
+        "naicsCode": "334111",
+        "name": "Electronic Computer Manufacturing"
+      },
+      {
+        "naicsCode": "454110",
+        "name": "Electronic Shopping & Mail-Order Houses"
+      },
+      {
+        "naicsCode": "332",
+        "name": "Fabricated Metal Product Manufacturing"
+      },
+      {
+        "naicsCode": "493130",
+        "name": "Farm Product Warehousing & Storage"
+      },
+      {
+        "naicsCode": "111332",
+        "name": "Farms, Vineyards"
+      },
+      {
+        "naicsCode": "424460",
+        "name": "Fish & Seafood Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "311",
+        "name": "Food Manufacturing"
+      },
+      {
+        "naicsCode": "316210",
+        "name": "Footwear Manufacturing"
+      },
+      {
+        "naicsCode": "424340",
+        "name": "Footwear Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "3315",
+        "name": "Foundries"
+      },
+      {
+        "naicsCode": "488510",
+        "name": "Freight Transportation Arrangement"
+      },
+      {
+        "naicsCode": "488510",
+        "name": "Freight Transportation Arrangement (forwarders, brokers)"
+      },
+      {
+        "naicsCode": "812210",
+        "name": "Funeral Homes"
+      },
+      {
+        "naicsCode": "423210",
+        "name": "Furniture Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "442110",
+        "name": "Furniture Stores"
+      },
+      {
+        "naicsCode": "4491",
+        "name": "Furniture and Home Furnishings Retailers"
+      },
+      {
+        "naicsCode": "236220",
+        "name": "General contractors"
+      },
+      {
+        "naicsCode": "424410",
+        "name": "General Line Grocery Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "493110",
+        "name": "General Warehousing & Storage"
+      },
+      {
+        "naicsCode": "921190",
+        "name": "Government Initiatives"
+      },
+      {
+        "naicsCode": "336120",
+        "name": "Heavy Duty Truck Manufacturing"
+      },
+      {
+        "naicsCode": "2373",
+        "name": "Highway, Street, and Bridge Construction"
+      },
+      {
+        "naicsCode": "423220",
+        "name": "Home Furnishing Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "721110",
+        "name": "Hotels"
+      },
+      {
+        "naicsCode": "423620",
+        "name": "Household Appliance Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "443141",
+        "name": "Household Appliance Stores"
+      },
+      {
+        "naicsCode": "23621",
+        "name": "Industrial Building Construction"
+      },
+      {
+        "naicsCode": "423830",
+        "name": "Industrial Machinery & Equipment Wholesalers"
+      },
+      {
+        "naicsCode": "333511",
+        "name": "Industrial Mold Manufacturing"
+      },
+      {
+        "naicsCode": "333924",
+        "name": "Industrial Truck, Tractor, Trailer & Stacker Machinery Mfg."
+      },
+      {
+        "naicsCode": "337127",
+        "name": "Institutional Furniture Manufacturing"
+      },
+      {
+        "naicsCode": "3311",
+        "name": "Iron and Steel Mills and Ferroalloy Manufacturing"
+      },
+      {
+        "naicsCode": "561730",
+        "name": "Landscapers & Yard‑waste Generators"
+      },
+      {
+        "naicsCode": "561730",
+        "name": "Landscaping Services"
+      },
+      {
+        "naicsCode": "336112",
+        "name": "Light Truck & Utility Vehicle Manufacturing"
+      },
+      {
+        "naicsCode": "336112",
+        "name": "Light Truck and Utility Vehicle Manufacturing"
+      },
+      {
+        "naicsCode": "327410",
+        "name": "Lime Manufacturing"
+      },
+      {
+        "naicsCode": "423310",
+        "name": "Lumber, Millwork & Wood-Panel Wholesalers"
+      },
+      {
+        "naicsCode": "333517",
+        "name": "Machine Tool Manufacturing"
+      },
+      {
+        "naicsCode": "335220",
+        "name": "Major Household Appliance Manufacturing"
+      },
+      {
+        "naicsCode": "31-33",
+        "name": "Manufacturing"
+      },
+      {
+        "naicsCode": "488320",
+        "name": "Marine Cargo Handling"
+      },
+      {
+        "naicsCode": "541715",
+        "name": "Medical Research Facilities"
+      },
+      {
+        "naicsCode": "424320",
+        "name": "Men’s & Boys’ Clothing Wholesalers"
+      },
+      {
+        "naicsCode": "4235",
+        "name": "Metal and Mineral (except Petroleum) Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "212",
+        "name": "Mining (except Oil and Gas)"
+      },
+      {
+        "naicsCode": "3362",
+        "name": "Motor Vehicle Body and Trailer Manufacturing"
+      },
+      {
+        "naicsCode": "336340",
+        "name": "Motor Vehicle Brake System Manufacturing"
+      },
+      {
+        "naicsCode": "336310",
+        "name": "Motor Vehicle Gasoline Engine & Parts Manufacturing"
+      },
+      {
+        "naicsCode": "3361",
+        "name": "Motor Vehicle Manufacturing"
+      },
+      {
+        "naicsCode": "336370",
+        "name": "Motor Vehicle Metal Stamping"
+      },
+      {
+        "naicsCode": "3363",
+        "name": "Motor Vehicle Parts Manufacturing"
+      },
+      {
+        "naicsCode": "336350",
+        "name": "Motor Vehicle Transmission & Power Train Parts Manufacturing"
+      },
+      {
+        "naicsCode": "423120",
+        "name": "Motor-Vehicle Supplies & New Parts Wholesalers"
+      },
+      {
+        "naicsCode": "488510",
+        "name": "NVOCC"
+      },
+      {
+        "naicsCode": "313220",
+        "name": "Narrow Fabric Mills & Schiffli Embroidery"
+      },
+      {
+        "naicsCode": "313221",
+        "name": "Narrow Fabric Mills & Schiffli Embroidery"
+      },
+      {
+        "naicsCode": "484220",
+        "name": "Non Hazardous Hazmat Chemical transport companies"
+      },
+      {
+        "naicsCode": "3314",
+        "name": "Nonferrous Metal (except Aluminum) Production and Processing"
+      },
+      {
+        "naicsCode": "2362",
+        "name": "Nonresidential Building Construction"
+      },
+      {
+        "naicsCode": "337214",
+        "name": "Office Furniture (except Wood) Manufacturing"
+      },
+      {
+        "naicsCode": "531120",
+        "name": "offices"
+      },
+      {
+        "naicsCode": "211",
+        "name": "Oil and Gas Extraction"
+      },
+      {
+        "naicsCode": "325180",
+        "name": "Other Basic Inorganic Chemical Manufacturing"
+      },
+      {
+        "naicsCode": "424690",
+        "name": "Other Chemical & Allied Products Wholesalers"
+      },
+      {
+        "naicsCode": "327390",
+        "name": "Other Concrete Product Manufacturing"
+      },
+      {
+        "naicsCode": "315280",
+        "name": "Other Cut & Sew Apparel Manufacturing"
+      },
+      {
+        "naicsCode": "315290",
+        "name": "Other Cut & Sew Apparel Manufacturing"
+      },
+      {
+        "naicsCode": "3359",
+        "name": "Other Electrical Equipment and Component Manufacturing"
+      },
+      {
+        "naicsCode": "423690",
+        "name": "Other Electronic Parts & Equipment Wholesalers"
+      },
+      {
+        "naicsCode": "424490",
+        "name": "Other Grocery & Related Products Wholesalers"
+      },
+      {
+        "naicsCode": "333519",
+        "name": "Other Metalworking Machinery Manufacturing"
+      },
+      {
+        "naicsCode": "336390",
+        "name": "Other Motor Vehicle Parts Manufacturing"
+      },
+      {
+        "naicsCode": "336390",
+        "name": "Other Motor-Vehicle Parts Manufacturing"
+      },
+      {
+        "naicsCode": "493190",
+        "name": "Other Warehousing & Storage"
+      },
+      {
+        "naicsCode": "561910",
+        "name": "Packaging & Labeling Services"
+      },
+      {
+        "naicsCode": "488991",
+        "name": "Packing & Crating Services"
+      },
+      {
+        "naicsCode": "325510",
+        "name": "Paint & Coating Manufacturing"
+      },
+      {
+        "naicsCode": "322",
+        "name": "Paper Manufacturing"
+      },
+      {
+        "naicsCode": "4241",
+        "name": "Paper and Paper Product Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "325320",
+        "name": "Pesticide & Other Agricultural Chemical Manufacturing"
+      },
+      {
+        "naicsCode": "325110",
+        "name": "Petrochemical Manufacturing"
+      },
+      {
+        "naicsCode": "324",
+        "name": "Petroleum and Coal Products Manufacturing"
+      },
+      {
+        "naicsCode": "446110",
+        "name": "Pharmacies"
+      },
+      {
+        "naicsCode": "424310",
+        "name": "Piece Goods, Notions & Other Dry-Goods Wholesalers"
+      },
+      {
+        "naicsCode": "325211",
+        "name": "Plastics Material & Resin Manufacturing"
+      },
+      {
+        "naicsCode": "325211",
+        "name": "Plastics Material and Resin Manufacturing"
+      },
+      {
+        "naicsCode": "424610",
+        "name": "Plastics Materials & Basic Forms Wholesalers"
+      },
+      {
+        "naicsCode": "23811",
+        "name": "Poured Concrete Foundation and Structure Contractors"
+      },
+      {
+        "naicsCode": "333991",
+        "name": "Power-Driven Handtool Manufacturing"
+      },
+      {
+        "naicsCode": "3231",
+        "name": "Printing and Related Support Activities"
+      },
+      {
+        "naicsCode": "541614",
+        "name": "Process, Physical Distribution & Logistics Consulting Services"
+      },
+      {
+        "naicsCode": "541614",
+        "name": "Process, Physical Distribution, and Logistics Consulting Services"
+      },
+      {
+        "naicsCode": "711310",
+        "name": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+      },
+      {
+        "naicsCode": "237990",
+        "name": "Public Works"
+      },
+      {
+        "naicsCode": "3365",
+        "name": "Railroad Rolling Stock Manufacturing"
+      },
+      {
+        "naicsCode": "327320",
+        "name": "Ready-Mix Concrete Manufacturing"
+      },
+      {
+        "naicsCode": "42393",
+        "name": "Recyclable Material Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "493120",
+        "name": "Refrigerated Warehousing & Storage"
+      },
+      {
+        "naicsCode": "562910",
+        "name": "Remediation Services"
+      },
+      {
+        "naicsCode": "236118",
+        "name": "remodel"
+      },
+      {
+        "naicsCode": "2361",
+        "name": "Residential Building Construction"
+      },
+      {
+        "naicsCode": "531311",
+        "name": "Residential Property Managers, Nonresidential Property Managers"
+      },
+      {
+        "naicsCode": "236118",
+        "name": "Residential Remodelers"
+      },
+      {
+        "naicsCode": "562111",
+        "name": "Residential solid waste collections processing franchise agreements"
+      },
+      {
+        "naicsCode": "722511",
+        "name": "Resturants"
+      },
+      {
+        "naicsCode": "44-45",
+        "name": "retail"
+      },
+      {
+        "naicsCode": "448140",
+        "name": "Retail Clothing Manufacturers"
+      },
+      {
+        "naicsCode": "238160",
+        "name": "roofing"
+      },
+      {
+        "naicsCode": "238160",
+        "name": "Roofing Contractors"
+      },
+      {
+        "naicsCode": "324122",
+        "name": "Roofing and Saturated Materials Manufacturing"
+      },
+      {
+        "naicsCode": "423330",
+        "name": "Roofing, Siding & Insulation Material Wholesalers"
+      },
+      {
+        "naicsCode": "611110",
+        "name": "schools"
+      },
+      {
+        "naicsCode": "5417",
+        "name": "Scientific Research and Development Services"
+      },
+      {
+        "naicsCode": "3344",
+        "name": "Semiconductor and Other Electronic Component Manufacturing"
+      },
+      {
+        "naicsCode": "334413",
+        "name": "Semiconductor and Related Device Manufacturing"
+      },
+      {
+        "naicsCode": "3366",
+        "name": "Ship and Boat Building"
+      },
+      {
+        "naicsCode": "238910",
+        "name": "Site Preparation Contractors"
+      },
+      {
+        "naicsCode": "23891",
+        "name": "Site Preparation Contractors"
+      },
+      {
+        "naicsCode": "335210",
+        "name": "Small Electrical Appliance Manufacturing"
+      },
+      {
+        "naicsCode": "562920",
+        "name": "Solid Waste Management Authority"
+      },
+      {
+        "naicsCode": "541380",
+        "name": "Testing Laboratories and Services"
+      },
+      {
+        "naicsCode": "423140",
+        "name": "Tire & Tube Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "423130",
+        "name": "Tire & Tube Merchant Wholesalers"
+      },
+      {
+        "naicsCode": "337121",
+        "name": "Upholstered Household Furniture Manufacturing"
+      },
+      {
+        "naicsCode": "4595",
+        "name": "Used Merchandise Retailers"
+      },
+      {
+        "naicsCode": "711310",
+        "name": "venues"
+      },
+      {
+        "naicsCode": "541940",
+        "name": "Veterinarians"
+      },
+      {
+        "naicsCode": "4931",
+        "name": "warehouse"
+      },
+      {
+        "naicsCode": "42",
+        "name": "wholesale"
+      },
+      {
+        "naicsCode": "424330",
+        "name": "Women’s, Children’s & Infants’ Clothing Wholesalers"
+      },
+      {
+        "naicsCode": "337110",
+        "name": "Wood Kitchen Cabinet & Countertop Manufacturing"
+      },
+      {
+        "naicsCode": "321920",
+        "name": "Wood Pallets"
+      }
+    ],
+    "states": [
+      {
+        "Id": "usa.alabama",
+        "Name": "Alabama"
+      },
+      {
+        "Id": "usa.alaska",
+        "Name": "Alaska"
+      },
+      {
+        "Id": "canada.alberta",
+        "Name": "Alberta"
+      },
+      {
+        "Id": "usa.americansamoa",
+        "Name": "American Samoa"
+      },
+      {
+        "Id": "usa.arizona",
+        "Name": "Arizona"
+      },
+      {
+        "Id": "usa.arkansas",
+        "Name": "Arkansas"
+      },
+      {
+        "Id": "canada.britishcolumbia",
+        "Name": "British Columbia"
+      },
+      {
+        "Id": "usa.california",
+        "Name": "California"
+      },
+      {
+        "Id": "usa.canalzone",
+        "Name": "Canal Zone"
+      },
+      {
+        "Id": "usa.colorado",
+        "Name": "Colorado"
+      },
+      {
+        "Id": "usa.connecticut",
+        "Name": "Connecticut"
+      },
+      {
+        "Id": "usa.delaware",
+        "Name": "Delaware"
+      },
+      {
+        "Id": "usa.dc",
+        "Name": "District of Columbia"
+      },
+      {
+        "Id": "usa.florida",
+        "Name": "Florida"
+      },
+      {
+        "Id": "usa.georgia",
+        "Name": "Georgia"
+      },
+      {
+        "Id": "usa.guam",
+        "Name": "Guam"
+      },
+      {
+        "Id": "usa.hawaii",
+        "Name": "Hawaii"
+      },
+      {
+        "Id": "usa.idaho",
+        "Name": "Idaho"
+      },
+      {
+        "Id": "usa.illinois",
+        "Name": "Illinois"
+      },
+      {
+        "Id": "usa.indiana",
+        "Name": "Indiana"
+      },
+      {
+        "Id": "usa.iowa",
+        "Name": "Iowa"
+      },
+      {
+        "Id": "usa.kansas",
+        "Name": "Kansas"
+      },
+      {
+        "Id": "usa.kentucky",
+        "Name": "Kentucky"
+      },
+      {
+        "Id": "usa.louisiana",
+        "Name": "Louisiana"
+      },
+      {
+        "Id": "usa.maine",
+        "Name": "Maine"
+      },
+      {
+        "Id": "canada.manitoba",
+        "Name": "Manitoba"
+      },
+      {
+        "Id": "usa.maryland",
+        "Name": "Maryland"
+      },
+      {
+        "Id": "usa.massachusetts",
+        "Name": "Massachusetts"
+      },
+      {
+        "Id": "usa.michigan",
+        "Name": "Michigan"
+      },
+      {
+        "Id": "usa.minnesota",
+        "Name": "Minnesota"
+      },
+      {
+        "Id": "usa.mississippi",
+        "Name": "Mississippi"
+      },
+      {
+        "Id": "usa.missouri",
+        "Name": "Missouri"
+      },
+      {
+        "Id": "usa.montana",
+        "Name": "Montana"
+      },
+      {
+        "Id": "usa.nebraska",
+        "Name": "Nebraska"
+      },
+      {
+        "Id": "usa.nevada",
+        "Name": "Nevada"
+      },
+      {
+        "Id": "canada.newbrunswick",
+        "Name": "New Brunswick"
+      },
+      {
+        "Id": "usa.newhampshire",
+        "Name": "New Hampshire"
+      },
+      {
+        "Id": "usa.newjersey",
+        "Name": "New Jersey"
+      },
+      {
+        "Id": "usa.newmexico",
+        "Name": "New Mexico"
+      },
+      {
+        "Id": "usa.newyork",
+        "Name": "New York"
+      },
+      {
+        "Id": "canada.newfoundland",
+        "Name": "Newfoundland"
+      },
+      {
+        "Id": "usa.northcarolina",
+        "Name": "North Carolina"
+      },
+      {
+        "Id": "usa.northdakota",
+        "Name": "North Dakota"
+      },
+      {
+        "Id": "canada.nwt",
+        "Name": "Northwest Territories"
+      },
+      {
+        "Id": "canada.novascotia",
+        "Name": "Nova Scotia"
+      },
+      {
+        "Id": "canada.nunavut",
+        "Name": "Nunavut"
+      },
+      {
+        "Id": "usa.ohio",
+        "Name": "Ohio"
+      },
+      {
+        "Id": "usa.oklahoma",
+        "Name": "Oklahoma"
+      },
+      {
+        "Id": "canada.ontario",
+        "Name": "Ontario"
+      },
+      {
+        "Id": "usa.oregon",
+        "Name": "Oregon"
+      },
+      {
+        "Id": "usa.pennsylvania",
+        "Name": "Pennsylvania"
+      },
+      {
+        "Id": "canada.pei",
+        "Name": "Prince Edward Island"
+      },
+      {
+        "Id": "usa.puertorico",
+        "Name": "Puerto Rico"
+      },
+      {
+        "Id": "canada.quebec",
+        "Name": "Quebec"
+      },
+      {
+        "Id": "usa.rhodeisland",
+        "Name": "Rhode Island"
+      },
+      {
+        "Id": "canada.saskatchewan",
+        "Name": "Saskatchewan"
+      },
+      {
+        "Id": "usa.southcarolina",
+        "Name": "South Carolina"
+      },
+      {
+        "Id": "usa.southdakota",
+        "Name": "South Dakota"
+      },
+      {
+        "Id": "usa.tennessee",
+        "Name": "Tennessee"
+      },
+      {
+        "Id": "usa.texas",
+        "Name": "Texas"
+      },
+      {
+        "Id": "usa.utah",
+        "Name": "Utah"
+      },
+      {
+        "Id": "usa.vermont",
+        "Name": "Vermont"
+      },
+      {
+        "Id": "usa.virginislands",
+        "Name": "Virgin Islands"
+      },
+      {
+        "Id": "usa.virginia",
+        "Name": "Virginia"
+      },
+      {
+        "Id": "usa.washington",
+        "Name": "Washington"
+      },
+      {
+        "Id": "usa.westvirginia",
+        "Name": "West Virginia"
+      },
+      {
+        "Id": "usa.wisconsin",
+        "Name": "Wisconsin"
+      },
+      {
+        "Id": "usa.wyoming",
+        "Name": "Wyoming"
+      },
+      {
+        "Id": "canada.yukon",
+        "Name": "Yukon"
+      }
+    ]
+  }
